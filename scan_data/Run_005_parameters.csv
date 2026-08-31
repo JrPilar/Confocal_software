@@ -1,0 +1,17 @@
+Parameter,Value,Unit
+Method,Manual,
+Illumination time (dt),10.0,ms
+X/Y step (dx),500.0,nm
+Z step (dz),500.0,nm
+X steps (nx),4,steps
+Y steps (ny),4,steps
+Z steps (nz),1,steps
+X center (xo),59.987,µm
+Y center (yo),39.989,µm
+Z center (zo),59.993,µm
+X start,59.237,µm
+X stop,60.737,µm
+Y start,39.239,µm
+Y stop,40.739,µm
+Z start,59.993,µm
+Z stop,59.993,µm
